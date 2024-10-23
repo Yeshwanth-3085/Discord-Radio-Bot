@@ -1,6 +1,6 @@
 # Discord-Radio-Bot
 
-This Discord bot streams a radio station, provides now-playing information, and allows users to connect, disconnect, and move the bot between voice channels. It fetches song metadata from an API and displays it in an embedded message.
+This Discord bot streams a radio station, provides now-playing information, and allows users to connect, disconnect, and move the bot between voice channels. It fetches song metadata and displays it in an embedded message.
 
 ## Features
 
