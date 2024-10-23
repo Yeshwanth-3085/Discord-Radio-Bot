@@ -17,7 +17,7 @@ You need to have Python installed, along with the following libraries:
 - `PyNaCl==1.5.0`
 - `yt-dlp==2024.10.22`
 
-Remember to replace 'YOUR-BOT-TOKEN' in the `Radio.pyw` file with the token you got from `Discord Developer Portal` before runing the file.
+Remember to replace `'YOUR-BOT-TOKEN'` in the `Radio.pyw` file with the token you got from `Discord Developer Portal` before runing the file.
 
 You can install the required libraries using:
 
