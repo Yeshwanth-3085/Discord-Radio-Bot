@@ -19,6 +19,8 @@ You need to have Python installed, along with the following libraries:
 
 Remember to replace `'YOUR-BOT-TOKEN'` in the `Radio.pyw` file with the token you got from `Discord Developer Portal` before runing the file.
 
+And for now this only works for single server, I may later add the Multi Server support.
+
 You can install the required libraries using:
 
 ```bash
